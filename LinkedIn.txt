@@ -1,0 +1,84 @@
+WORDS
+Engenharia
+Engenharia
+Engenharia
+Engenharia
+Engenharia
+Engenharia
+Analytics
+Analytics
+Analytics
+Analytics
+Analytics
+Tecnologia
+Tecnologia
+Tecnologia
+Tecnologia
+Supply Chain
+Supply Chain
+Supply Chain
+Supply Chain
+Supply Chain
+Qualidade
+Qualidade
+Qualidade
+Qualidade
+Qualidade
+Produção
+Produção
+Produção
+Produção
+Produção
+Produção
+Melhoria Contínua
+Melhoria Contínua
+Melhoria Contínua
+Melhoria Contínua
+Melhoria Contínua
+Gestão da Mudança
+Gestão da Mudança
+Gestão da Mudança
+Gestão da Mudança
+Gestão da Mudança
+PCP
+PCP
+PCP
+PCP
+PDCA
+PDCA
+PDCA
+PDCA
+SWOT
+SWOT
+SWOT
+SWOT
+FMEA
+FMEA
+FMEA
+FMEA
+DMAIC
+DMAIC
+DMAIC
+DMAIC
+SixSigma
+SixSigma
+SixSigma
+SixSigma
+Processos
+Processos
+Processos
+Processos
+Inovação
+Inovação
+Inovação
+Logística
+Logística
+Logística
+Sourcing
+Sourcing
+Sourcing
+Planejamento
+Planejamento
+Planejamento
+ABC
+ABC
